@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-10-01 14:56+0600\n"
+"PO-Revision-Date: 2020-10-01 14:56+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ../../../view\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: createcombview.php\n"
+"X-Poedit-SearchPath-1: distance.php\n"
+"X-Poedit-SearchPath-2: executionview.php\n"
+"X-Poedit-SearchPath-3: fileview.php\n"
+"X-Poedit-SearchPath-4: getlocationscontroller.php\n"
+"X-Poedit-SearchPath-5: horizontalindexView.php\n"
+"X-Poedit-SearchPath-6: include_css.php\n"
+"X-Poedit-SearchPath-7: invalidview.php\n"
+"X-Poedit-SearchPath-8: locations.php\n"
+"X-Poedit-SearchPath-9: loginform.php\n"
+"X-Poedit-SearchPath-10: printlocationview.php\n"
+"X-Poedit-SearchPath-11: requests.php\n"
+"X-Poedit-SearchPath-12: results.php\n"
+"X-Poedit-SearchPath-13: showdistance.php\n"
+"X-Poedit-SearchPath-14: showresultcontrollerview.php\n"
+"X-Poedit-SearchPath-15: users_info.php\n"
+"X-Poedit-SearchPath-16: verticalindexView.php\n"
+"X-Poedit-SearchPath-17: view_distance.php\n"
+"X-Poedit-SearchPath-18: viewrequestid.php\n"
+
+#: executionview.php:3
+msgid "Executed for "
+msgstr "কার্যকর করা হয়েছে "
+
+#: fileview.php:17 requests.php:44
+msgid "Upload file"
+msgstr "ফাইল আপলোড করুন"
+
+#: fileview.php:19 requests.php:46
+msgid "Upload"
+msgstr "আপলোড"
+
+#: horizontalindexView.php:14
+msgid "Home"
+msgstr "হোম পেজ"
+
+#: horizontalindexView.php:19 verticalindexView.php:25
+msgid "Calculate distance"
+msgstr "দুরত্ব মাপুন"
+
+#: horizontalindexView.php:38 verticalindexView.php:37
+msgid "Enter or upload json data"
+msgstr "ফাইল অথবা জেসন ডাটা দিন"
+
+#: horizontalindexView.php:42 verticalindexView.php:39
+msgid "View Result"
+msgstr "ফলাফল দেখুন"
+
+#: horizontalindexView.php:47 verticalindexView.php:41
+msgid "Logout"
+msgstr "লগ আউট"
+
+#: invalidview.php:3
+msgid "No id found"
+msgstr "কোনও আইডি পাওয়া যায়নি"
+
+#: loginform.php:27
+msgid "User name"
+msgstr "ব্যবহারকারীর নাম"
+
+#: loginform.php:27
+msgid "UserName"
+msgstr "ব্যবহারকারীর_নাম"
+
+#: loginform.php:29
+msgid "Password"
+msgstr "পাসওয়ার্ড"
+
+#: loginform.php:31 requests.php:34 results.php:19 showdistance.php:36
+#: users_info.php:19
+msgid "Submit"
+msgstr "জমা দিন"
+
+#: requests.php:23
+msgid "Input JSON"
+msgstr "জেসন ডাটা"
+
+#: showdistance.php:19
+msgid "First_Location"
+msgstr "প্রথম লোকেশন"
+
+#: showdistance.php:21 showdistance.php:29
+msgid "Select Location"
+msgstr "স্থান নির্বাচন করুন"
+
+#: showdistance.php:27
+msgid "Second_Location"
+msgstr "দ্বিতীয় লোকেশন"
+
+#: showresultcontrollerview.php:6
+msgid "File is not ready for reference id"
+msgstr "রেফারেন্স আইডির ফাইলটি প্রস্তুত নয়"
+
+#: showresultcontrollerview.php:10
+msgid "Trigger calculation"
+msgstr "গণনা শুরু করুন"
